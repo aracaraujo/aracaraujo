@@ -21,6 +21,15 @@ The same goes for backend systems like APIs or bare c++ programs haha.
 
 Feel free to reach me at my  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ara-araujo/)  and we can chat.
 
+### Don't forget to check some of my projects
+
+I have a lot of projects here and you can look at them, but here is a list of the top projects.
+
+* [Password Manager](https://github.com/aracaraujo/PasswordManagerSwiftUI)
+* [Multi Threaded RPS Game](https://github.com/aracaraujo/Multi-Threaded-RPS-Game)
+* [Bank Record System](https://github.com/aracaraujo/BankRecordSystem)
+
+
 <!--
 **aracaraujo/aracaraujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
