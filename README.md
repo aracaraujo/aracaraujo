@@ -2,9 +2,9 @@
 
 
 ### About me
-- I'm majoring in Software Engineering at Brigham Young University - Idaho with a minor in CIT.
+- I have in Software Engineering at Brigham Young University - Idaho with a minor in CIT.
 - I enjoy working on backend systems, but I also like to do a little bit of frontend. In frontend I like to develop for mobile devices mainly.
-- I'm doing my minor in CIT because I really like DevOps.
+- I have a minor in CIT because I really like DevOps.
 - I'm from Brazil, therefore I love to play soccer. ⚽
 
 ### What am I learning now?
