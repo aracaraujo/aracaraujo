@@ -1,4 +1,4 @@
-## Hi, I'm Arã Araújo 
+## Hi, My name is Arã Araújo 
 
 
 ### About me
